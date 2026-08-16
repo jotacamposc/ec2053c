@@ -1,0 +1,19 @@
+VERIFICACIÓN DE ENTORNO · EC2053C Análisis de Datos II · 2-2026
+==================================================================
+Fecha de ejecución : 2026-08-15 03:15
+Python             : 3.12.13
+Ejecutable         : C:\Users\Jose\miniconda3\envs\ec2053c\python.exe
+Sistema            : Windows 10 (AMD64)
+Semilla del curso  : 2053
+Reproducibilidad   : OK
+Prueba de humo AUC : 0.8535
+
+Paquetes:
+  numpy          2.4.6          OK
+  pandas         3.0.3          OK
+  scipy          1.18.0         OK
+  sklearn        1.9.0          OK
+  matplotlib     3.11.0         OK
+  pyarrow        23.0.1         OK
+  statsmodels    0.14.6         OK
+  seaborn        0.13.2         OK
