@@ -1,0 +1,601 @@
+cliente_id,fecha_alta,segmento,comuna,canal
+C0001,2019-03-31,Retail,Chillán,Terreno
+C0002,2024-06-12,Retail,Coronel,Terreno
+C0003,2019-04-10,Retail,Cañete,Televenta
+C0004,2023-12-15,Retail,Hualpén,Terreno
+C0005,2021-07-08,Retail,Lota,Terreno
+C0006,2023-08-05,Institucional,Concepción,Ecommerce
+C0007,2025-06-16,Retail,Talcahuano,Televenta
+C0008,2025-02-27,Retail,Cañete,Terreno
+C0009,2019-10-23,Mayorista,Coronel,Ecommerce
+C0010,2020-12-22,Retail,Lebu,Televenta
+C0011,2021-01-28,Retail,Chillán,Terreno
+C0012,2024-05-27,Mayorista,Lebu,Terreno
+C0013,2020-08-22,Retail,Lebu,Terreno
+C0014,2025-12-10,Institucional,Lota,Terreno
+C0015,2023-01-10,Retail,Talcahuano,Televenta
+C0016,2025-02-17,Retail,Lebu,Ecommerce
+C0017,2022-08-10,Mayorista,Arauco,Terreno
+C0018,2024-08-27,Retail,Lota,Terreno
+C0019,2019-09-06,Retail,Talcahuano,Terreno
+C0020,2023-04-15,Mayorista,Lota,Ecommerce
+C0021,2020-10-27,Institucional,Concepción,Televenta
+C0022,2019-03-06,Institucional,Arauco,Terreno
+C0023,2023-09-09,Retail,San Pedro de la Paz,Ecommerce
+C0024,2020-09-15,Retail,Los Ángeles,Ecommerce
+C0025,2021-08-30,Retail,Talcahuano,Terreno
+C0026,2022-11-23,Mayorista,Chiguayante,Televenta
+C0027,2023-06-16,Retail,Cañete,Televenta
+C0028,2024-10-15,Institucional,Talcahuano,Terreno
+C0029,2022-03-06,Mayorista,Los Ángeles,Terreno
+C0030,2023-03-06,Mayorista,Concepción,Terreno
+C0031,2020-06-15,Mayorista,Arauco,Televenta
+C0032,2021-10-12,Mayorista,Talcahuano,Televenta
+C0033,2020-09-10,Retail,Los Ángeles,Terreno
+C0034,2019-04-17,Mayorista,San Pedro de la Paz,Terreno
+C0035,2022-07-04,Retail,Lebu,Televenta
+C0036,2024-03-04,Institucional,Talcahuano,Terreno
+C0037,2024-07-29,Retail,Chiguayante,Terreno
+C0038,2021-06-20,Mayorista,Arauco,Televenta
+C0039,2022-03-30,Mayorista,Concepción,Ecommerce
+C0040,2022-10-11,Retail,Arauco,Terreno
+C0041,2020-12-22,Retail,Talcahuano,Terreno
+C0042,2024-01-26,Mayorista,San Pedro de la Paz,Televenta
+C0043,2024-09-12,Retail,Arauco,Terreno
+C0044,2021-03-14,Retail,Concepción,Terreno
+C0045,2024-02-07,Retail,Arauco,Televenta
+C0046,2025-10-08,Retail,Los Ángeles,Terreno
+C0047,2021-09-26,Mayorista,Hualpén,Terreno
+C0048,2020-10-15,Institucional,Concepción,Terreno
+C0049,2019-07-23,Mayorista,Arauco,Televenta
+C0050,2022-12-09,Mayorista,Hualpén,Terreno
+C0051,2022-10-30,Mayorista,Talcahuano,Televenta
+C0052,2025-12-16,Retail,Concepción,Terreno
+C0053,2020-04-20,Mayorista,Coronel,Terreno
+C0054,2024-08-26,Retail,Los Ángeles,Ecommerce
+C0055,2025-05-31,Retail,Los Ángeles,Ecommerce
+C0056,2025-06-10,Retail,Chiguayante,Televenta
+C0057,2023-08-16,Retail,Coronel,Terreno
+C0058,2019-08-10,Retail,Lebu,Ecommerce
+C0059,2025-08-09,Mayorista,San Pedro de la Paz,Terreno
+C0060,2023-12-08,Retail,San Pedro de la Paz,Terreno
+C0061,2019-07-28,Mayorista,Lota,Televenta
+C0062,2019-05-08,Retail,San Pedro de la Paz,Televenta
+C0063,2021-03-02,Institucional,Coronel,Televenta
+C0064,2020-08-05,Retail,Chiguayante,Televenta
+C0065,2021-07-06,Institucional,Lota,Terreno
+C0066,2020-12-31,Institucional,Lota,Televenta
+C0067,2024-08-03,Retail,Los Ángeles,Terreno
+C0068,2025-02-17,Retail,Lota,Ecommerce
+C0069,2025-11-14,Mayorista,Concepción,Terreno
+C0070,2024-10-22,Mayorista,Los Ángeles,Terreno
+C0071,2020-03-09,Retail,Coronel,Ecommerce
+C0072,2022-12-15,Retail,Arauco,Televenta
+C0073,2023-04-30,Mayorista,Concepción,Televenta
+C0074,2024-06-09,Mayorista,Cañete,Ecommerce
+C0075,2020-09-28,Retail,Lota,Terreno
+C0076,2024-04-06,Retail,Concepción,Terreno
+C0077,2025-03-21,Mayorista,Lebu,Televenta
+C0078,2025-01-06,Retail,Coronel,Terreno
+C0079,2022-05-19,Retail,Coronel,Televenta
+C0080,2022-05-18,Mayorista,Chiguayante,Ecommerce
+C0081,2021-09-17,Institucional,Arauco,Terreno
+C0082,2025-09-08,Retail,Los Ángeles,Terreno
+C0083,2021-12-24,Retail,Lebu,Terreno
+C0084,2021-03-03,Mayorista,Talcahuano,Ecommerce
+C0085,2023-12-28,Retail,Coronel,Terreno
+C0086,2022-10-02,Retail,Los Ángeles,Terreno
+C0087,2022-07-11,Mayorista,Chillán,Televenta
+C0088,2021-11-06,Retail,Chiguayante,Terreno
+C0089,2022-10-04,Institucional,Lebu,Televenta
+C0090,2021-03-31,Retail,Coronel,Televenta
+C0091,2019-08-01,Retail,Chiguayante,Televenta
+C0092,2021-08-23,Retail,Chillán,Terreno
+C0093,2023-07-20,Mayorista,Hualpén,Ecommerce
+C0094,2022-12-11,Retail,Concepción,Terreno
+C0095,2021-02-08,Retail,Chiguayante,Televenta
+C0096,2020-03-25,Retail,Cañete,Terreno
+C0097,2023-12-21,Retail,Talcahuano,Televenta
+C0098,2019-02-27,Institucional,Chiguayante,Terreno
+C0099,2025-07-06,Retail,Hualpén,Ecommerce
+C0100,2020-08-10,Retail,Cañete,Televenta
+C0101,2021-03-01,Institucional,Chiguayante,Terreno
+C0102,2023-08-31,Retail,Chillán,Terreno
+C0103,2025-02-08,Mayorista,Talcahuano,Televenta
+C0104,2019-02-09,Institucional,Talcahuano,Televenta
+C0105,2024-07-29,Retail,Hualpén,Terreno
+C0106,2020-09-22,Retail,Talcahuano,Terreno
+C0107,2019-02-22,Mayorista,Chillán,Televenta
+C0108,2024-06-02,Mayorista,Talcahuano,Terreno
+C0109,2022-07-05,Retail,Cañete,Terreno
+C0110,2020-09-13,Retail,Lota,Televenta
+C0111,2021-01-16,Mayorista,Chillán,Terreno
+C0112,2022-12-15,Retail,Arauco,Terreno
+C0113,2021-05-09,Institucional,Los Ángeles,Televenta
+C0114,2021-07-04,Retail,Cañete,Televenta
+C0115,2022-11-26,Retail,Cañete,Terreno
+C0116,2023-03-08,Mayorista,Concepción,Terreno
+C0117,2019-01-31,Retail,Lebu,Ecommerce
+C0118,2025-07-07,Retail,Cañete,Terreno
+C0119,2019-02-14,Retail,Arauco,Terreno
+C0120,2019-12-16,Retail,Lota,Televenta
+C0121,2022-10-26,Mayorista,Hualpén,Ecommerce
+C0122,2021-03-10,Mayorista,Lebu,Terreno
+C0123,2020-08-11,Retail,Talcahuano,Televenta
+C0124,2022-10-24,Retail,San Pedro de la Paz,Terreno
+C0125,2019-10-22,Mayorista,Chiguayante,Terreno
+C0126,2023-10-03,Mayorista,Concepción,Terreno
+C0127,2024-03-12,Retail,Cañete,Televenta
+C0128,2019-07-23,Retail,Chiguayante,Ecommerce
+C0129,2020-06-04,Mayorista,Coronel,Terreno
+C0130,2021-11-08,Retail,San Pedro de la Paz,Terreno
+C0131,2020-10-03,Mayorista,San Pedro de la Paz,Terreno
+C0132,2022-10-30,Retail,Lota,Televenta
+C0133,2021-10-09,Mayorista,Lebu,Terreno
+C0134,2020-01-09,Retail,San Pedro de la Paz,Televenta
+C0135,2019-05-08,Retail,Arauco,Televenta
+C0136,2024-08-26,Mayorista,Talcahuano,Ecommerce
+C0137,2024-03-20,Retail,Los Ángeles,Televenta
+C0138,2024-06-13,Retail,Coronel,Televenta
+C0139,2020-07-28,Mayorista,Chillán,Televenta
+C0140,2023-10-09,Mayorista,Chiguayante,Televenta
+C0141,2024-12-19,Retail,Hualpén,Ecommerce
+C0142,2020-08-31,Retail,Coronel,Televenta
+C0143,2023-01-06,Mayorista,Lebu,Terreno
+C0144,2020-12-25,Mayorista,San Pedro de la Paz,Televenta
+C0145,2020-10-13,Mayorista,Chiguayante,Terreno
+C0146,2024-05-11,Retail,Chillán,Terreno
+C0147,2024-05-19,Mayorista,Chillán,Terreno
+C0148,2022-10-28,Retail,Hualpén,Televenta
+C0149,2022-04-25,Retail,San Pedro de la Paz,Televenta
+C0150,2021-10-15,Mayorista,San Pedro de la Paz,Terreno
+C0151,2021-06-30,Retail,Lebu,Terreno
+C0152,2019-10-24,Institucional,Chillán,Televenta
+C0153,2020-03-02,Retail,Concepción,Televenta
+C0154,2021-12-11,Retail,Lebu,Televenta
+C0155,2025-03-02,Institucional,Lota,Terreno
+C0156,2024-12-29,Retail,Cañete,Ecommerce
+C0157,2025-03-16,Retail,Hualpén,Terreno
+C0158,2020-01-20,Institucional,Coronel,Terreno
+C0159,2020-03-23,Retail,Chillán,Televenta
+C0160,2019-10-01,Retail,Lebu,Terreno
+C0161,2026-01-08,Retail,Lota,Terreno
+C0162,2021-01-14,Retail,Chillán,Ecommerce
+C0163,2024-08-28,Retail,Lota,Ecommerce
+C0164,2020-03-13,Institucional,Arauco,Terreno
+C0165,2021-11-23,Mayorista,San Pedro de la Paz,Televenta
+C0166,2022-08-22,Mayorista,San Pedro de la Paz,Terreno
+C0167,2021-06-04,Retail,Arauco,Ecommerce
+C0168,2024-09-14,Institucional,Talcahuano,Televenta
+C0169,2023-09-09,Retail,San Pedro de la Paz,Terreno
+C0170,2023-02-17,Retail,Chillán,Televenta
+C0171,2020-05-23,Mayorista,Talcahuano,Terreno
+C0172,2022-06-18,Mayorista,Arauco,Ecommerce
+C0173,2025-08-27,Mayorista,Los Ángeles,Televenta
+C0174,2021-08-05,Retail,Chiguayante,Televenta
+C0175,2021-08-08,Retail,Cañete,Ecommerce
+C0176,2022-01-20,Retail,Concepción,Ecommerce
+C0177,2024-04-11,Retail,Concepción,Terreno
+C0178,2019-02-22,Institucional,Chillán,Terreno
+C0179,2023-03-26,Mayorista,Chillán,Televenta
+C0180,2025-07-18,Institucional,Los Ángeles,Terreno
+C0181,2024-05-30,Retail,Coronel,Terreno
+C0182,2025-01-16,Retail,Talcahuano,Ecommerce
+C0183,2022-08-08,Retail,Arauco,Terreno
+C0184,2025-02-17,Retail,Lota,Terreno
+C0185,2019-02-12,Institucional,Lebu,Televenta
+C0186,2023-11-04,Mayorista,Coronel,Ecommerce
+C0187,2021-07-08,Mayorista,Coronel,Terreno
+C0188,2023-07-29,Mayorista,Chiguayante,Terreno
+C0189,2023-12-07,Retail,Talcahuano,Televenta
+C0190,2024-02-16,Mayorista,Hualpén,Televenta
+C0191,2025-11-13,Retail,Chiguayante,Televenta
+C0192,2025-08-24,Mayorista,Lebu,Terreno
+C0193,2024-12-10,Retail,Chillán,Terreno
+C0194,2024-12-18,Retail,Arauco,Televenta
+C0195,2021-12-04,Mayorista,Lota,Ecommerce
+C0196,2024-03-29,Retail,Talcahuano,Terreno
+C0197,2025-07-19,Retail,Hualpén,Terreno
+C0198,2024-02-13,Retail,Los Ángeles,Terreno
+C0199,2019-09-02,Mayorista,San Pedro de la Paz,Televenta
+C0200,2025-07-11,Mayorista,Hualpén,Televenta
+C0201,2024-05-28,Retail,Hualpén,Terreno
+C0202,2023-11-25,Retail,Hualpén,Ecommerce
+C0203,2021-04-09,Retail,Arauco,Terreno
+C0204,2019-10-15,Mayorista,San Pedro de la Paz,Televenta
+C0205,2021-05-07,Retail,Talcahuano,Televenta
+C0206,2020-11-29,Institucional,Cañete,Terreno
+C0207,2025-08-04,Retail,Lota,Televenta
+C0208,2020-02-18,Retail,Hualpén,Terreno
+C0209,2023-08-07,Mayorista,Chiguayante,Televenta
+C0210,2021-11-19,Retail,Concepción,Terreno
+C0211,2023-01-16,Retail,Chillán,Televenta
+C0212,2022-12-13,Mayorista,Arauco,Televenta
+C0213,2025-12-06,Retail,Chillán,Terreno
+C0214,2019-11-22,Mayorista,Chiguayante,Televenta
+C0215,2020-07-21,Retail,Los Ángeles,Ecommerce
+C0216,2023-03-14,Retail,Concepción,Terreno
+C0217,2019-04-03,Retail,Chillán,Televenta
+C0218,2022-04-29,Mayorista,Coronel,Televenta
+C0219,2021-03-20,Mayorista,Talcahuano,Terreno
+C0220,2023-08-14,Retail,Lebu,Terreno
+C0221,2025-04-08,Retail,Lebu,Terreno
+C0222,2020-08-02,Mayorista,Hualpén,Terreno
+C0223,2025-09-24,Mayorista,Chillán,Televenta
+C0224,2019-11-07,Institucional,Hualpén,Terreno
+C0225,2023-07-21,Retail,Cañete,Televenta
+C0226,2023-05-30,Retail,Arauco,Ecommerce
+C0227,2025-04-17,Retail,Lota,Ecommerce
+C0228,2020-02-02,Institucional,Hualpén,Televenta
+C0229,2023-08-18,Mayorista,Hualpén,Televenta
+C0230,2024-01-17,Mayorista,Lebu,Ecommerce
+C0231,2021-12-29,Retail,Arauco,Terreno
+C0232,2019-12-08,Retail,Los Ángeles,Terreno
+C0233,2020-06-05,Mayorista,Lebu,Terreno
+C0234,2025-04-07,Mayorista,Concepción,Terreno
+C0235,2025-08-17,Retail,Cañete,Ecommerce
+C0236,2020-09-27,Mayorista,San Pedro de la Paz,Televenta
+C0237,2024-11-16,Retail,Los Ángeles,Terreno
+C0238,2024-06-19,Retail,Cañete,Terreno
+C0239,2022-10-04,Retail,Chillán,Terreno
+C0240,2024-07-22,Retail,Lota,Televenta
+C0241,2020-09-02,Mayorista,Cañete,Terreno
+C0242,2022-04-07,Retail,Cañete,Televenta
+C0243,2025-08-25,Mayorista,Concepción,Televenta
+C0244,2024-05-30,Retail,Lebu,Televenta
+C0245,2020-07-27,Retail,Cañete,Terreno
+C0246,2019-02-11,Mayorista,Los Ángeles,Ecommerce
+C0247,2019-07-18,Institucional,Chiguayante,Ecommerce
+C0248,2024-04-19,Retail,Cañete,Terreno
+C0249,2021-08-17,Retail,San Pedro de la Paz,Terreno
+C0250,2022-06-01,Mayorista,Los Ángeles,Televenta
+C0251,2024-07-06,Mayorista,Chiguayante,Terreno
+C0252,2022-10-02,Institucional,Lota,Ecommerce
+C0253,2025-11-26,Retail,Los Ángeles,Terreno
+C0254,2024-02-24,Mayorista,Los Ángeles,Televenta
+C0255,2021-09-05,Retail,Chiguayante,Televenta
+C0256,2025-03-02,Retail,Chiguayante,Terreno
+C0257,2024-08-24,Retail,Arauco,Terreno
+C0258,2021-03-27,Mayorista,Lebu,Terreno
+C0259,2021-08-16,Institucional,Lota,Terreno
+C0260,2020-12-11,Retail,Arauco,Terreno
+C0261,2019-01-30,Retail,Talcahuano,Ecommerce
+C0262,2024-07-31,Retail,Concepción,Televenta
+C0263,2023-02-18,Retail,Los Ángeles,Televenta
+C0264,2021-09-28,Retail,Arauco,Terreno
+C0265,2019-05-11,Retail,Lota,Televenta
+C0266,2025-10-10,Mayorista,Lota,Terreno
+C0267,2024-12-18,Institucional,San Pedro de la Paz,Terreno
+C0268,2022-04-20,Mayorista,San Pedro de la Paz,Terreno
+C0269,2023-12-18,Retail,Chiguayante,Terreno
+C0270,2021-04-06,Retail,Lota,Terreno
+C0271,2021-06-01,Institucional,Arauco,Terreno
+C0272,2020-10-04,Retail,Lota,Ecommerce
+C0273,2019-07-14,Retail,Chillán,Televenta
+C0274,2023-05-05,Retail,Hualpén,Ecommerce
+C0275,2026-01-21,Retail,Cañete,Televenta
+C0276,2024-07-03,Retail,Chiguayante,Terreno
+C0277,2024-02-04,Mayorista,Cañete,Terreno
+C0278,2024-01-16,Retail,Concepción,Terreno
+C0279,2021-03-02,Mayorista,Coronel,Televenta
+C0280,2023-04-15,Mayorista,San Pedro de la Paz,Terreno
+C0281,2024-02-17,Retail,Los Ángeles,Terreno
+C0282,2024-01-02,Retail,Talcahuano,Terreno
+C0283,2024-11-15,Retail,Lebu,Ecommerce
+C0284,2023-11-21,Retail,Los Ángeles,Televenta
+C0285,2022-11-16,Retail,Concepción,Ecommerce
+C0286,2024-04-29,Mayorista,Chiguayante,Terreno
+C0287,2020-02-03,Mayorista,Concepción,Ecommerce
+C0288,2024-07-29,Retail,Lota,Televenta
+C0289,2021-03-07,Retail,San Pedro de la Paz,Terreno
+C0290,2021-03-21,Mayorista,Los Ángeles,Terreno
+C0291,2021-02-08,Retail,Arauco,Ecommerce
+C0292,2019-12-24,Mayorista,Chiguayante,Ecommerce
+C0293,2023-04-16,Retail,Chiguayante,Televenta
+C0294,2019-09-15,Retail,Hualpén,Terreno
+C0295,2023-08-19,Mayorista,Talcahuano,Terreno
+C0296,2021-05-14,Mayorista,Lota,Terreno
+C0297,2019-11-04,Institucional,Talcahuano,Televenta
+C0298,2020-05-17,Retail,Arauco,Ecommerce
+C0299,2025-05-08,Retail,Hualpén,Terreno
+C0300,2024-09-11,Retail,Coronel,Ecommerce
+C0301,2021-01-17,Retail,Talcahuano,Terreno
+C0302,2020-12-16,Mayorista,Lota,Televenta
+C0303,2023-08-22,Retail,Lebu,Ecommerce
+C0304,2020-04-06,Retail,Chillán,Ecommerce
+C0305,2023-03-07,Retail,Lebu,Terreno
+C0306,2022-07-23,Retail,Chiguayante,Televenta
+C0307,2022-05-18,Retail,Los Ángeles,Televenta
+C0308,2023-12-30,Retail,Talcahuano,Ecommerce
+C0309,2019-06-08,Retail,Lebu,Terreno
+C0310,2019-07-19,Retail,Arauco,Televenta
+C0311,2022-12-07,Retail,Arauco,Televenta
+C0312,2023-11-02,Institucional,Talcahuano,Terreno
+C0313,2021-04-25,Retail,Concepción,Terreno
+C0314,2022-02-19,Retail,San Pedro de la Paz,Televenta
+C0315,2024-01-07,Mayorista,Chiguayante,Terreno
+C0316,2019-05-04,Retail,Hualpén,Televenta
+C0317,2024-12-12,Retail,Talcahuano,Televenta
+C0318,2022-02-13,Institucional,Coronel,Televenta
+C0319,2019-08-05,Retail,San Pedro de la Paz,Televenta
+C0320,2021-09-17,Retail,Lebu,Televenta
+C0321,2022-07-17,Retail,Chillán,Televenta
+C0322,2020-08-10,Institucional,Hualpén,Terreno
+C0323,2025-11-29,Mayorista,Lebu,Terreno
+C0324,2025-08-30,Retail,Chiguayante,Terreno
+C0325,2024-03-16,Retail,Coronel,Ecommerce
+C0326,2021-05-29,Mayorista,Lota,Televenta
+C0327,2020-01-31,Retail,Lebu,Terreno
+C0328,2022-11-01,Retail,Arauco,Terreno
+C0329,2025-07-23,Retail,San Pedro de la Paz,Terreno
+C0330,2024-11-30,Retail,Los Ángeles,Terreno
+C0331,2025-04-24,Mayorista,Lebu,Televenta
+C0332,2025-12-05,Retail,Talcahuano,Televenta
+C0333,2024-02-13,Institucional,Arauco,Ecommerce
+C0334,2021-09-25,Institucional,Chillán,Televenta
+C0335,2024-01-29,Mayorista,Coronel,Televenta
+C0336,2024-03-05,Institucional,Chiguayante,Ecommerce
+C0337,2019-11-15,Retail,Talcahuano,Terreno
+C0338,2023-04-27,Institucional,Hualpén,Terreno
+C0339,2025-10-21,Institucional,Concepción,Terreno
+C0340,2022-12-04,Retail,Lota,Televenta
+C0341,2022-01-09,Retail,Coronel,Terreno
+C0342,2024-01-11,Retail,Chillán,Terreno
+C0343,2022-03-02,Mayorista,Lebu,Terreno
+C0344,2021-01-21,Retail,Cañete,Terreno
+C0345,2024-01-09,Institucional,Chiguayante,Terreno
+C0346,2022-08-03,Retail,Hualpén,Terreno
+C0347,2026-01-17,Institucional,Hualpén,Televenta
+C0348,2023-08-01,Retail,Lebu,Televenta
+C0349,2025-04-23,Institucional,Concepción,Televenta
+C0350,2019-07-10,Institucional,Lota,Ecommerce
+C0351,2021-05-05,Retail,Los Ángeles,Televenta
+C0352,2025-12-03,Retail,San Pedro de la Paz,Ecommerce
+C0353,2019-09-20,Retail,Arauco,Terreno
+C0354,2019-03-16,Retail,Los Ángeles,Televenta
+C0355,2019-07-19,Institucional,Lota,Terreno
+C0356,2020-10-28,Retail,Cañete,Televenta
+C0357,2021-09-08,Mayorista,Concepción,Televenta
+C0358,2024-06-12,Mayorista,Lota,Ecommerce
+C0359,2019-03-27,Retail,Coronel,Ecommerce
+C0360,2021-05-01,Retail,Chillán,Televenta
+C0361,2023-05-02,Retail,Lota,Televenta
+C0362,2019-08-13,Mayorista,Talcahuano,Ecommerce
+C0363,2023-07-26,Retail,Lebu,Ecommerce
+C0364,2025-11-18,Institucional,Talcahuano,Terreno
+C0365,2020-08-03,Retail,Talcahuano,Terreno
+C0366,2022-03-19,Institucional,Chillán,Televenta
+C0367,2019-06-04,Retail,Los Ángeles,Terreno
+C0368,2022-01-13,Retail,Chiguayante,Terreno
+C0369,2019-07-22,Mayorista,Hualpén,Televenta
+C0370,2023-09-14,Institucional,Lebu,Ecommerce
+C0371,2020-01-10,Mayorista,Arauco,Terreno
+C0372,2025-03-29,Institucional,Talcahuano,Terreno
+C0373,2023-10-05,Mayorista,Cañete,Televenta
+C0374,2025-06-03,Mayorista,Lota,Terreno
+C0375,2024-05-04,Mayorista,Los Ángeles,Televenta
+C0376,2022-08-27,Retail,Arauco,Terreno
+C0377,2020-11-23,Mayorista,Chillán,Ecommerce
+C0378,2021-06-05,Retail,Coronel,Terreno
+C0379,2025-12-09,Retail,Lebu,Terreno
+C0380,2023-09-28,Mayorista,San Pedro de la Paz,Televenta
+C0381,2022-10-05,Retail,Coronel,Televenta
+C0382,2022-12-27,Retail,Cañete,Televenta
+C0383,2024-07-20,Retail,Lebu,Televenta
+C0384,2025-03-14,Mayorista,Coronel,Televenta
+C0385,2019-01-06,Retail,Hualpén,Ecommerce
+C0386,2020-02-01,Retail,Coronel,Ecommerce
+C0387,2023-09-09,Mayorista,Lota,Terreno
+C0388,2024-07-29,Retail,Chiguayante,Terreno
+C0389,2023-06-26,Retail,Talcahuano,Televenta
+C0390,2020-07-28,Retail,Talcahuano,Ecommerce
+C0391,2022-09-21,Mayorista,Chiguayante,Terreno
+C0392,2023-03-29,Mayorista,Cañete,Ecommerce
+C0393,2021-08-19,Mayorista,Coronel,Ecommerce
+C0394,2024-07-19,Retail,Hualpén,Ecommerce
+C0395,2022-07-10,Retail,Lebu,Ecommerce
+C0396,2025-12-05,Retail,Concepción,Terreno
+C0397,2022-12-21,Retail,Lebu,Terreno
+C0398,2019-10-06,Retail,Lebu,Terreno
+C0399,2025-12-04,Retail,San Pedro de la Paz,Ecommerce
+C0400,2019-10-20,Mayorista,Coronel,Terreno
+C0401,2022-06-10,Mayorista,Concepción,Televenta
+C0402,2020-07-05,Retail,Talcahuano,Terreno
+C0403,2019-12-12,Mayorista,Arauco,Televenta
+C0404,2025-03-12,Retail,San Pedro de la Paz,Televenta
+C0405,2021-08-08,Mayorista,Chiguayante,Televenta
+C0406,2021-03-30,Mayorista,Hualpén,Televenta
+C0407,2019-06-10,Retail,Talcahuano,Televenta
+C0408,2023-07-18,Mayorista,Talcahuano,Ecommerce
+C0409,2022-10-19,Mayorista,Cañete,Terreno
+C0410,2023-01-21,Institucional,Cañete,Ecommerce
+C0411,2023-09-14,Institucional,Los Ángeles,Terreno
+C0412,2020-10-18,Retail,Arauco,Terreno
+C0413,2023-12-08,Retail,Concepción,Terreno
+C0414,2022-08-08,Retail,Talcahuano,Terreno
+C0415,2021-03-21,Institucional,Talcahuano,Televenta
+C0416,2021-04-06,Mayorista,Cañete,Terreno
+C0417,2024-02-04,Retail,Concepción,Televenta
+C0418,2021-05-30,Mayorista,Los Ángeles,Televenta
+C0419,2021-02-23,Retail,Cañete,Televenta
+C0420,2023-07-03,Retail,Lota,Televenta
+C0421,2019-05-27,Retail,Los Ángeles,Televenta
+C0422,2025-04-01,Retail,Lota,Ecommerce
+C0423,2019-08-19,Retail,San Pedro de la Paz,Televenta
+C0424,2020-10-24,Retail,Lota,Terreno
+C0425,2020-01-31,Retail,Talcahuano,Televenta
+C0426,2023-05-28,Retail,Chillán,Terreno
+C0427,2024-03-17,Mayorista,Los Ángeles,Televenta
+C0428,2019-01-30,Retail,San Pedro de la Paz,Terreno
+C0429,2021-07-04,Retail,Cañete,Ecommerce
+C0430,2020-03-17,Institucional,Los Ángeles,Terreno
+C0431,2024-03-10,Institucional,Coronel,Terreno
+C0432,2023-10-22,Mayorista,Coronel,Terreno
+C0433,2022-01-21,Mayorista,Cañete,Ecommerce
+C0434,2021-03-15,Retail,Talcahuano,Ecommerce
+C0435,2024-11-08,Retail,San Pedro de la Paz,Terreno
+C0436,2021-03-07,Retail,Arauco,Televenta
+C0437,2022-11-07,Retail,Hualpén,Televenta
+C0438,2020-03-26,Institucional,Coronel,Terreno
+C0439,2025-09-22,Retail,Arauco,Ecommerce
+C0440,2019-10-28,Retail,Hualpén,Televenta
+C0441,2024-01-23,Mayorista,Los Ángeles,Terreno
+C0442,2022-11-19,Institucional,Chillán,Televenta
+C0443,2019-02-01,Mayorista,Hualpén,Ecommerce
+C0444,2024-06-10,Retail,Lota,Televenta
+C0445,2025-03-21,Mayorista,Arauco,Ecommerce
+C0446,2023-08-15,Retail,Lebu,Terreno
+C0447,2022-01-28,Retail,San Pedro de la Paz,Televenta
+C0448,2024-01-24,Retail,Arauco,Terreno
+C0449,2025-11-20,Retail,Lebu,Televenta
+C0450,2020-05-09,Mayorista,Talcahuano,Televenta
+C0451,2024-10-23,Retail,Concepción,Televenta
+C0452,2020-11-15,Mayorista,Talcahuano,Terreno
+C0453,2020-04-10,Mayorista,Lebu,Terreno
+C0454,2024-05-22,Retail,Chiguayante,Terreno
+C0455,2019-02-18,Retail,Los Ángeles,Ecommerce
+C0456,2023-12-20,Retail,Coronel,Terreno
+C0457,2019-09-07,Retail,Talcahuano,Televenta
+C0458,2019-01-07,Institucional,Talcahuano,Terreno
+C0459,2024-07-13,Retail,Lota,Televenta
+C0460,2020-09-21,Retail,San Pedro de la Paz,Televenta
+C0461,2020-05-28,Mayorista,Lota,Terreno
+C0462,2021-07-25,Retail,Chillán,Ecommerce
+C0463,2022-08-12,Retail,Talcahuano,Terreno
+C0464,2025-09-25,Institucional,Coronel,Terreno
+C0465,2024-07-13,Retail,Chiguayante,Terreno
+C0466,2021-11-23,Institucional,Los Ángeles,Terreno
+C0467,2024-08-07,Retail,Lebu,Terreno
+C0468,2024-07-07,Institucional,Coronel,Ecommerce
+C0469,2021-07-09,Retail,Lota,Terreno
+C0470,2026-02-12,Retail,Talcahuano,Televenta
+C0471,2023-02-12,Retail,Hualpén,Terreno
+C0472,2020-09-05,Retail,Lota,Terreno
+C0473,2019-07-06,Institucional,Chiguayante,Terreno
+C0474,2020-06-04,Retail,Hualpén,Terreno
+C0475,2022-01-21,Retail,Cañete,Ecommerce
+C0476,2023-01-19,Retail,Lebu,Terreno
+C0477,2025-01-20,Retail,Chillán,Ecommerce
+C0478,2025-03-02,Institucional,San Pedro de la Paz,Terreno
+C0479,2022-11-07,Retail,Cañete,Terreno
+C0480,2020-05-13,Mayorista,Lebu,Terreno
+C0481,2024-11-28,Retail,Talcahuano,Terreno
+C0482,2021-01-28,Retail,Lebu,Televenta
+C0483,2025-11-14,Mayorista,Arauco,Televenta
+C0484,2020-02-26,Retail,Talcahuano,Terreno
+C0485,2022-04-14,Institucional,Los Ángeles,Terreno
+C0486,2019-04-09,Mayorista,Lebu,Televenta
+C0487,2021-08-17,Retail,Chiguayante,Terreno
+C0488,2023-07-13,Retail,Coronel,Televenta
+C0489,2025-01-24,Retail,Talcahuano,Ecommerce
+C0490,2019-10-31,Retail,Chillán,Terreno
+C0491,2024-06-07,Retail,Chillán,Ecommerce
+C0492,2022-02-12,Mayorista,Arauco,Ecommerce
+C0493,2021-07-28,Retail,Hualpén,Terreno
+C0494,2025-10-15,Mayorista,Concepción,Televenta
+C0495,2023-07-11,Mayorista,Chillán,Ecommerce
+C0496,2020-11-26,Retail,Chillán,Terreno
+C0497,2025-12-13,Mayorista,Chillán,Terreno
+C0498,2020-01-14,Mayorista,Talcahuano,Televenta
+C0499,2020-09-12,Retail,Coronel,Terreno
+C0500,2021-07-09,Retail,Hualpén,Ecommerce
+C0501,2023-10-21,Institucional,Hualpén,Ecommerce
+C0502,2022-07-25,Mayorista,Lota,Ecommerce
+C0503,2022-12-22,Mayorista,Talcahuano,Televenta
+C0504,2025-01-25,Institucional,Cañete,Ecommerce
+C0505,2026-01-31,Retail,Concepción,Ecommerce
+C0506,2023-07-14,Mayorista,Hualpén,Televenta
+C0507,2019-07-28,Retail,Lota,Televenta
+C0508,2019-05-18,Retail,Hualpén,Terreno
+C0509,2025-03-20,Institucional,San Pedro de la Paz,Televenta
+C0510,2024-01-13,Retail,Hualpén,Terreno
+C0511,2021-05-07,Institucional,Lebu,Terreno
+C0512,2024-04-10,Institucional,San Pedro de la Paz,Terreno
+C0513,2023-06-14,Retail,San Pedro de la Paz,Televenta
+C0514,2019-03-06,Retail,Los Ángeles,Ecommerce
+C0515,2020-08-04,Mayorista,Arauco,Televenta
+C0516,2025-11-09,Mayorista,Chiguayante,Televenta
+C0517,2020-10-09,Mayorista,Los Ángeles,Televenta
+C0518,2019-09-07,Retail,Los Ángeles,Televenta
+C0519,2025-05-03,Retail,Coronel,Ecommerce
+C0520,2019-03-24,Retail,Hualpén,Terreno
+C0521,2023-07-29,Retail,Arauco,Terreno
+C0522,2019-04-03,Institucional,Coronel,Terreno
+C0523,2024-03-18,Retail,Los Ángeles,Televenta
+C0524,2024-09-22,Retail,Concepción,Terreno
+C0525,2023-08-28,Mayorista,San Pedro de la Paz,Televenta
+C0526,2019-08-09,Institucional,Lebu,Televenta
+C0527,2020-06-01,Retail,Los Ángeles,Televenta
+C0528,2023-03-05,Retail,San Pedro de la Paz,Televenta
+C0529,2025-07-26,Retail,San Pedro de la Paz,Televenta
+C0530,2019-01-28,Institucional,Chillán,Terreno
+C0531,2022-07-22,Retail,Hualpén,Terreno
+C0532,2022-10-05,Mayorista,Concepción,Terreno
+C0533,2025-07-13,Institucional,Cañete,Televenta
+C0534,2024-05-03,Retail,Cañete,Terreno
+C0535,2020-09-21,Retail,Cañete,Televenta
+C0536,2022-08-03,Mayorista,Chiguayante,Terreno
+C0537,2025-04-06,Institucional,Chiguayante,Ecommerce
+C0538,2025-09-03,Retail,San Pedro de la Paz,Ecommerce
+C0539,2025-08-29,Retail,Lota,Televenta
+C0540,2021-11-28,Retail,Lota,Ecommerce
+C0541,2021-02-04,Mayorista,Hualpén,Televenta
+C0542,2021-03-14,Mayorista,Chillán,Televenta
+C0543,2019-10-20,Retail,Chillán,Televenta
+C0544,2024-09-29,Mayorista,Arauco,Terreno
+C0545,2019-08-26,Retail,Chiguayante,Terreno
+C0546,2020-11-17,Retail,Coronel,Terreno
+C0547,2025-05-22,Institucional,Lebu,Ecommerce
+C0548,2023-12-26,Retail,Lota,Televenta
+C0549,2022-10-03,Institucional,Lota,Televenta
+C0550,2022-10-28,Retail,Chiguayante,Terreno
+C0551,2024-11-05,Mayorista,Chiguayante,Terreno
+C0552,2022-11-27,Institucional,San Pedro de la Paz,Terreno
+C0553,2021-02-11,Mayorista,Lota,Televenta
+C0554,2022-03-28,Mayorista,Coronel,Televenta
+C0555,2022-06-13,Mayorista,Chiguayante,Televenta
+C0556,2023-03-07,Retail,Talcahuano,Terreno
+C0557,2019-05-28,Mayorista,Lota,Ecommerce
+C0558,2025-10-06,Retail,Los Ángeles,Terreno
+C0559,2022-04-17,Mayorista,Lota,Ecommerce
+C0560,2019-08-25,Retail,Chillán,Televenta
+C0561,2023-03-29,Mayorista,Talcahuano,Televenta
+C0562,2021-06-10,Retail,Cañete,Televenta
+C0563,2023-12-06,Retail,Coronel,Televenta
+C0564,2023-08-04,Retail,Los Ángeles,Televenta
+C0565,2019-01-30,Retail,Chiguayante,Terreno
+C0566,2019-10-09,Retail,Chiguayante,Televenta
+C0567,2023-12-26,Institucional,Cañete,Televenta
+C0568,2022-10-30,Institucional,Hualpén,Ecommerce
+C0569,2020-11-12,Retail,Lebu,Televenta
+C0570,2021-06-05,Retail,Hualpén,Terreno
+C0571,2019-01-07,Mayorista,Coronel,Televenta
+C0572,2022-02-11,Retail,Talcahuano,Terreno
+C0573,2022-01-16,Retail,Chillán,Terreno
+C0574,2020-10-28,Retail,Coronel,Televenta
+C0575,2022-04-07,Retail,Chillán,Televenta
+C0576,2022-11-24,Mayorista,Lota,Televenta
+C0577,2023-06-12,Retail,Cañete,Terreno
+C0578,2019-08-19,Retail,Talcahuano,Terreno
+C0579,2020-09-16,Retail,San Pedro de la Paz,Terreno
+C0580,2020-06-14,Retail,Arauco,Terreno
+C0581,2020-04-12,Institucional,Hualpén,Terreno
+C0582,2025-05-14,Retail,San Pedro de la Paz,Televenta
+C0583,2022-10-23,Retail,Chillán,Terreno
+C0584,2026-02-04,Institucional,Hualpén,Terreno
+C0585,2020-08-19,Mayorista,Arauco,Televenta
+C0586,2025-06-17,Retail,Los Ángeles,Terreno
+C0587,2025-05-23,Retail,Talcahuano,Ecommerce
+C0588,2024-10-15,Mayorista,Arauco,Terreno
+C0589,2021-12-13,Institucional,Lebu,Televenta
+C0590,2026-01-27,Institucional,Hualpén,Televenta
+C0591,2023-11-20,Retail,Hualpén,Televenta
+C0592,2021-03-29,Retail,Los Ángeles,Televenta
+C0593,2019-06-23,Mayorista,Chillán,Televenta
+C0594,2025-08-31,Retail,Hualpén,Ecommerce
+C0595,2023-10-22,Institucional,Concepción,Televenta
+C0596,2019-07-24,Institucional,Lota,Terreno
+C0597,2021-05-11,Mayorista,Arauco,Televenta
+C0598,2020-01-22,Mayorista,Lebu,Televenta
+C0599,2022-01-21,Retail,Lebu,Televenta
+C0600,2023-08-12,Mayorista,Hualpén,Televenta
