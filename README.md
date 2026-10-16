@@ -35,7 +35,7 @@ Este repositorio contiene la estructura base y la comprobación del entorno `ec2
 
 ### Archivos que genera el cuaderno
 
-* `data/processed/matriz_diseno.parquet`: matriz de diseño (585 productos × 14 columnas).
+* `data/processed/matriz_hito1.parquet`: matriz de diseño del Hito 1 (585 productos × 14 columnas).
 * `src/auditoria.py` y `src/modelos.py`: funciones de auditoría y comparación de modelos.
 * `reports/diccionario_variables.csv`, `reports/auditoria_calidad.md`, `reports/h1_resumen.csv`.
 * `reports/figuras/`: gráficos del informe y la presentación.
