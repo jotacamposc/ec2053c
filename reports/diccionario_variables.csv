@@ -1,0 +1,15 @@
+variable,tipo,definicion,faltantes,disponible_t0
+codigo,str,Código del producto. Clave de la matriz.,0,clave
+semana_corte,int64,Semana t0 en que se toma la decisión de reposición (66).,0,clave
+unid_4s,float64,Unidades vendidas en las semanas 63 a 66.,0,sí: semanas anteriores a t0
+unid_12s,float64,Unidades vendidas en las semanas 55 a 66.,0,sí: semanas anteriores a t0
+unid_26s,float64,Unidades vendidas en las semanas 41 a 66.,0,sí: semanas anteriores a t0
+sd_unid_12s,float64,Desviación estándar de la venta semanal en 12 semanas.,0,sí: semanas anteriores a t0
+semanas_con_venta_12s,int64,"Semanas con al menos una venta, de las últimas 12.",0,sí: semanas anteriores a t0
+recencia_semanas,int64,Semanas entre la última venta y t0.,0,sí: se mide contra t0
+tendencia_4s_12s,float64,Venta de 4 semanas sobre el promedio de 4 semanas en 12.,88,sí: semanas anteriores a t0
+precio_medio,float64,Precio de venta promedio por unidad en la ventana.,0,sí: precios ya cobrados
+margen_pct,float64,Margen bruto: (precio - costo) / precio.,79,sí: costos ya registrados
+antiguedad_semanas,int64,Semanas desde la primera venta registrada hasta t0.,0,sí: se mide contra t0
+familia,str,Familia del producto (8 categorías).,0,sí: atributo fijo
+unid_prox_4s,float64,ETIQUETA. Unidades vendidas en las semanas 67 a 70.,0,etiqueta: posterior a t0
